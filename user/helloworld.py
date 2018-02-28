@@ -1,0 +1,5 @@
+print('Hello world, my name is Computer')
+input("What is your name?")
+name=input()
+print('Ok')
+print('Bye world')
